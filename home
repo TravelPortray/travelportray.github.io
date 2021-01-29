@@ -18,12 +18,12 @@
       <nav id="nav">
         <ul>
           <li>
-            <a href="index.html" class="active"
+            <a href="home" class="active"
               ><span class="icon fa-home"></span
             ></a>
           </li>
           <li>
-            <a href="gallery.html"
+            <a href="gallery"
               ><span class="icon fa-camera-retro"></span
             ></a>
           </li>
